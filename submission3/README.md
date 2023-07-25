@@ -1,7 +1,7 @@
-# DSCI 510 Project: Investigating the Relationship Between Gas Prices, EV sales, and CO2 Emissions
+# DSCI 510 Final Project: Investigating the Relationship Between Gas Prices, EV sales, and CO2 Emissions
 # Author: Ran Tao
-# Date: May 2, 2023
-This repository contains the work done for DSCI 510, Spring 2023, investigating the relationship between gas prices, Electric Vehicle (EV) sales, and CO2 emissions from transportation.
+
+This repository contains the work done for DSCI 510, investigating the relationship between gas prices, Electric Vehicle (EV) sales, and CO2 emissions from transportation.
 
 # Project Motivation
 With the growing concern over climate change and its impacts, finding ways to reduce greenhouse gas emissions has become a top priority. Transportation, particularly vehicles powered by gasoline or diesel fuel, is one of the major contributors to these emissions. EVs have emerged as a promising alternative, offering lower emissions and reduced dependency on fossil fuels.
